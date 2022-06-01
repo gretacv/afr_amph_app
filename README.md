@@ -2,7 +2,7 @@
 My second shiny app visualising the shared amphibian species between African countries
 It uses data from [The IUCN Red List of Threatened Species](https://www.iucnredlist.org/), accessed in June 2020.
 
-![]("preview.gif")
+![](preview.gif)
 ## Painpoints to deal with in the future... 
 ### Isolate actions so several countries can be deselected at the same time and have a go button
 ```
